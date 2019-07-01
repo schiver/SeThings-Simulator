@@ -100,7 +100,7 @@ public class DiningroomFragment extends Fragment {
 
             }
         };
-        
+
         return rootView;
     }
     public void setDefault(){
