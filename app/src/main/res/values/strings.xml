@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">projectdua</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Livingroom</string>
+    <string name="tab_text_2">Bedroom 1</string>
+    <string name="tab_text_3">Bedroom 2</string>
+    <string name="tab_text_4">Diningroom</string>
+    <string name="tab_text_5">Bathroom</string>
+
+</resources>
